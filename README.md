@@ -70,7 +70,7 @@ SIS-BIBLIO/
    - Abre el archivo `recover.php` y localiza la configuración SMTP (Aprox. línea 47).
    - En `$mail->Username`, coloca tu correo electrónico de Gmail.
    - En `$mail->Password`, no pongas tu clave personal. Debes generar una **Contraseña de Aplicación de 16 dígitos** en la sección de seguridad de tu cuenta Google: [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) y pegarla ahí.
-4. Visita en tu navegador: `http://localhost/SIS-BIBLIO/`
+4. Visita en tu navegador: `http://localhost/SIS-BIBLIO/index.php`
 
 ## Casos de Prueba Incluidos
 
