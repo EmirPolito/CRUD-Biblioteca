@@ -1,6 +1,5 @@
-CREATE DATABASE IF NOT EXISTS crud_biblioteca;
-USE crud_biblioteca;
-
+CREATE DATABASE IF NOT EXISTS crud_sis_biblio_publico;
+USE crud_sis_biblio_publico;
 
 -- Tablas y registros para usuarios y roles 
 /* TABLA: roles
