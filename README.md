@@ -5,6 +5,10 @@
 - GitHub: https://github.com/EmirPolito
 - Linkedin: https://www.linkedin.com/in/emir-polito-g/
 
+![448a24be-197c-4ca5-8f6f-0cf5e6452249](https://github.com/user-attachments/assets/49d68bce-f589-4d8f-8164-7885f29bdec8)
+
+
+
 # SIS-BIBLIO (Sistema de Gestión Bibliotecaria)
 
 **SIS-BIBLIO** es una plataforma integral desarrollada para la administración eficiente de una biblioteca y un avanzado **Módulo de Seguridad Web** (Proyecto Final DWP – SDA 3er Parcial). Construido estrictamente con **PHP puro**, HTML5, CSS3, JavaScript nativo (Vanilla) y MySQL (PDO), este sistema enfatiza las mejores prácticas de **Clean Code** y **Principios SOLID**, garantizando una seguridad de grado profesional en cada interacción.
